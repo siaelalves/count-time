@@ -1,0 +1,4 @@
+[CongressCounter]
+Title=Inauguração da sede mundial
+Event=Tempo até a inauguração em Warwick
+Date=#04/04/2017 00:00:00#

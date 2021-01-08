@@ -1,0 +1,20 @@
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\bin\Debug\AssemblyCounter.exe
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\bin\Debug\AssemblyCounter.pdb
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\bin\Debug\AssemblyCounter.xml
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\AssemblyCounter.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\AssemblyCounter.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\AssemblyCounter.exe
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\AssemblyCounter.xml
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\AssemblyCounter.pdb
+C:\Users\user\AppData\Local\Temporary Projects\AssemblyCounter\obj\Debug\AssemblyCounter.frmMain.resources
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\AssemblyCounter.frmMain.resources
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\AssemblyCounter.Resources.resources
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\AssemblyCounter.vbproj.GenerateResource.Cache
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\bin\Debug\Assembly Counter.exe
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\bin\Debug\Assembly Counter.pdb
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\bin\Debug\Assembly Counter.xml
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\Assembly Counter.exe
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\Assembly Counter.xml
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Debug\Assembly Counter.pdb

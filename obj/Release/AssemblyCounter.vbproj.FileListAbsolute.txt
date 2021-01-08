@@ -1,0 +1,54 @@
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\GenerateResource.read.1.tlog
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\GenerateResource.write.1.tlog
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\bin\Release\Congress Counter.exe
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\bin\Release\Congress Counter.pdb
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\bin\Release\Congress Counter.xml
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\CongressCounter.frmMain.resources
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\CongressCounter.Resources.resources
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\Congress Counter.exe
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\Congress Counter.xml
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\Congress Counter.pdb
+D:\E\Project\Visual Basic\Templates\AssemblyCounter\obj\Release\CongressCounter.SETT.resources
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\Congress Counter.exe
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\Congress Counter.xml
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\Congress Counter.pdb
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\bin\Release\Congress Counter.exe
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\bin\Release\Congress Counter.pdb
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\bin\Release\Congress Counter.xml
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\CongressCounter.frmMain.resources
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\CongressCounter.SETT.resources
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\CongressCounter.Resources.resources
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\obj\Release\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\bin\Debug\Congress Counter.exe
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\bin\Debug\Congress Counter.pdb
+D:\Projetos\VB\Templates\Ativos\AssemblyCounter\bin\Debug\Congress Counter.xml
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\Congress Counter.exe
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\Congress Counter.xml
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\Congress Counter.pdb
+D:\Projetos\VB\Templates\Ativos\COUNT\bin\Debug\Congress Counter.exe
+D:\Projetos\VB\Templates\Ativos\COUNT\bin\Debug\Congress Counter.pdb
+D:\Projetos\VB\Templates\Ativos\COUNT\bin\Debug\Congress Counter.xml
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\CongressCounter.frmMain.resources
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\CongressCounter.SETT.resources
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\CongressCounter.Resources.resources
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Ativos\COUNT\obj\Release\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Concluídos\COUNT\obj\Release\Congress Counter.exe
+D:\Projetos\VB\Templates\Concluídos\COUNT\obj\Release\Congress Counter.xml
+D:\Projetos\VB\Templates\Concluídos\COUNT\obj\Release\Congress Counter.pdb
+D:\Projetos\VB\Concluídos\COUNT\bin\Debug\COUNT.exe
+D:\Projetos\VB\Concluídos\COUNT\bin\Debug\COUNT.pdb
+D:\Projetos\VB\Concluídos\COUNT\bin\Debug\COUNT.xml
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\CongressCounter.frmMain.resources
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\CongressCounter.SETT.resources
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\CongressCounter.Resources.resources
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\GenerateResource.read.1.tlog
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\GenerateResource.write.1.tlog
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\COUNT.exe
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\COUNT.xml
+D:\Projetos\VB\Concluídos\COUNT\obj\Release\COUNT.pdb

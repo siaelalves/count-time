@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AssemblyCounter">
+</Property><Property Name="Solution File" Value="D:\E\Project\Visual Basic\Templates\AssemblyCounter\AssemblyCounter.sln">
+</Property><Property Name="Date" Value="terça-feira, 30 de abril de 2013">
+</Property><Property Name="Time" Value="15:46">
+</Property></Properties><Event ErrorLevel="0" Project="AssemblyCounter" Source="AssemblyCounter.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AssemblyCounter" Source="AssemblyCounter.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AssemblyCounter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AssemblyCounter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AssemblyCounter" Source="AssemblyCounter.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
